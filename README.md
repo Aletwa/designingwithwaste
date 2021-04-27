@@ -20,10 +20,9 @@ The easiest way to use this repository is to look through the documentation here
 
 **Here is a list of translations, from GitHub programming speak to design and making speak:**
 - Repository = works similarly (but more robustly) to a collaborative folder or drive on Google Drive or Office 365, where the main content is presented in documents and anyone who has access to the folder or drive can speak to other users through comments and suggestions
-- Clone = a copy of a repository that exists separately from the original repository, the clone is not linked to the original and you cannot pull down changes from the original to your clone
-- Branch = a repository is made up of branches that, like on a tree, branch off from one another
+- Fork = the act of copying a GitHub repository in order to make a new project, changes made to forks will not affect the original repository or branch from which the new branch was forked, new forks are linked to the original repository, forking instead of making a branch when you want to use this repository as a template for uploading your own material recipe
+- Branch = a repository is made up of branches that, like on a tree, branch off from one another, make a branch of this repository when you want to experiment with changing the template, make a branch of forks when you want to experiment with the recipes in those forks
 - Main Branch = the original branch of a repository (analogous to the trunk of tree)
-- Fork = the act of cloning a GitHub repository in order to make a new branch, changes made to clones will not affect the original repository or branch from which the new branch was forked/cloned, new branches are linked to the previous branches in the repository, forking instead of cloning means that you will be able to send pull requests to the original branch
 
 **Here is some information about the basic tabs and buttons found in GitHub:**
 - Code = the tab in a GitHub repository where a programmer normally stores their code, but where we will store our materials recipes
