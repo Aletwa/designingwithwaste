@@ -10,6 +10,12 @@
 #### Cons: 
 [heavier than a lot of modeling foams, can't be cut on a hot wire]
 
+#### Sourcing the Waste Material(s): 
+[This recipe uses waste paper, which is readily and easily available- junk mail is a great source. Just make sure you remove any staples, tape, or plastic-based glues]
+
+#### Potential Safety Issues: 
+[like with all materials that produce dust, such as wood and foam, make sure you always wear a dust mask or resporator when carving your board. Keep in mind that if you use binders like pasta water made from wheat pasta, some people may have allergic reactions to your material.]
+
 ---
 
 ### Recipe
