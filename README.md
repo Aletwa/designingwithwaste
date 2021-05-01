@@ -21,7 +21,7 @@ The easiest way to use this repository is to look through the documentation here
 **Here is a list of translations, from GitHub programming speak to design and making speak:**
 - Repository = works similarly (but more robustly) to a collaborative folder or drive on Google Drive or Office 365, where the main content is presented in documents and anyone who has access to the folder or drive can speak to other users through comments and suggestions
 - Fork = the act of copying a GitHub repository in order to make a new project, changes made to forks will not affect the original repository or branch from which the new branch was forked, new forks are linked to the original repository, forking instead of making a branch when you want to use this repository as a template for uploading your own material recipe
-- Branch = a repository is made up of branches that, like on a tree, branch off from one another, make a branch of this repository when you want to experiment with changing the template, make a branch of forks when you want to experiment with the recipes in those forks
+- Branch = a repository is made up of branches that, like on a tree, branch off from one another, make a branch of this repository when you want to experiment with changing the template, make a branch of a fork when you want to experiment with the recipes in that fork
 - Main Branch = the original branch of a repository (analogous to the trunk of tree)
 
 **Here is some information about the basic tabs and buttons found in GitHub:**
